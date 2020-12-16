@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.UI", "Web.UI\Web.UI.csproj", "{8FAA7580-C379-4FF8-94F7-2E58AE3EF83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Data", "Web.Data\Web.Data.csproj", "{A8730C9D-12AF-48E0-BE57-2E8C14F66675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAA7580-C379-4FF8-94F7-2E58AE3EF83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAA7580-C379-4FF8-94F7-2E58AE3EF83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAA7580-C379-4FF8-94F7-2E58AE3EF83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAA7580-C379-4FF8-94F7-2E58AE3EF83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8730C9D-12AF-48E0-BE57-2E8C14F66675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8730C9D-12AF-48E0-BE57-2E8C14F66675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8730C9D-12AF-48E0-BE57-2E8C14F66675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8730C9D-12AF-48E0-BE57-2E8C14F66675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F25D868-5DC8-412B-9FE6-A5890B38F2C9}
+	EndGlobalSection
+EndGlobal
